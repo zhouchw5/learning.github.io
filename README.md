@@ -10,7 +10,8 @@
 )**               
              
              
-- **Operations Research & Data Analysis Course Learning**               
+- **Operations Research & Data Analysis Course Learning**            
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Basic Curiosity_My Notes and Performance of Fundamentals of Operations Research & Analytics————2018.10.15</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Fundamental_Operations/README.md
 )                 
 
