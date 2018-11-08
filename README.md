@@ -17,6 +17,8 @@
                           
 - **Data Camp**
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Simple Practice in LeetCode_Longest Substring Without Repeating Characters————2018.11.07</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Fundamental-Algorithms-Practice_20181107/README.md)                 
+                 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Fundamental Performances of Statistical Methods via R/Python————2018.11.04</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Data-Analysis_R_review_20181104/README.md)                 
 
              
