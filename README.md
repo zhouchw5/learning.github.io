@@ -15,11 +15,14 @@
 ) 
               
                           
-- **Data Camp**
+- **Data Camp**                 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. JAVA_Simple Practice in LeetCode_Longest Substring Without Repeating Characters————2018.11.07</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Fundamental-Algorithms-Practice_20181107/README.md)                 
                  
-<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. R/Python_Fundamental Performances of Statistical Methods————2018.11.04</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Data-Analysis_R_review_20181104/README.md)                 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. R/Python_Fundamental Performances of Statistical Methods————2018.11.04</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Data-Analysis_R_review_20181104/README.md)                
+                               
+This part is the skeleton introduction to the R programming;                  
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Some Convenient Notes on R Session1_Vector, Data Frame, Session Management, Importing/Editing Data————2018.12.13</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/R-session/README.md)              
 
              
 - **Operations Research & Data Analysis Course Learning**            
