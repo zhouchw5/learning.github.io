@@ -28,6 +28,9 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. MergeSort in Java————2019.01.02</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/mergeSort/README.md)                                       
                                
 &nbsp; &nbsp; &nbsp;&nbsp;  **This part is the skeleton introduction to the R programming;**          
+&nbsp; &nbsp; &nbsp;&nbsp;  A little practice enlightened by my nephew              
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. An Easy Way to Generate '3'————2019.01.05</span>](https://github.com/zhouchw5/python_and_R.github.io/blob/sqrt(6)/README.md)                                    
+               
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Some Simple Practices on R Session5_Linear Regression————2018.12.19</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/R-Session5_linear-Regression/README.md)                               
                                       
                 
