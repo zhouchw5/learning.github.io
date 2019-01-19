@@ -8,7 +8,12 @@
            
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>**[<span style="border-bottom:2px solid blue;">. Some Basic Usages of Python in My Daily Work_(II)————2018.08.10</span>](https://github.com/zhouchw5/Python_excel.github.io/blob/Python/README.md
 )**               
-                   
+                              
+- **Distributed Computing for Big Data**                     
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Development Environment Constructed in the Distributed Computing for Big Data————2019.01.19</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/development-environment-constructing-in-Big-Data-course/README.md)                             
+                      
+                      
 - **Data Analysis and Statistical Methods Course Learning**           
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>[<span style="border-bottom:2px solid blue;">. Probability_My Notes and Performance in Data Analysis and Statistical Methods————2018.10.16</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/Data-Analysis-and-Statistical-Methods/README.md
