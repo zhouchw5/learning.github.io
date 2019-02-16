@@ -9,7 +9,7 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>**[<span style="border-bottom:2px solid blue;">. Some Basic Usages of Python in My Daily Work_(II)————2018.08.10</span>](https://github.com/zhouchw5/Python_excel.github.io/blob/Python/README.md
 )**                                     
                   
-<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>**[<span style="border-bottom:2px solid blue;">. Linear Programming and the Iteration Allocation Model————2019.02.08</span>]**(https://github.com/zhouchw5/Course_study_uk.github.io/blob/linear-programming-and-the-iteration-allocation-model/README.md) Some simple performance in R for retrospection and extension on my past iteration model for supply resource allocation                              
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\clubsuit&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\clubsuit&space;$" title="$ \clubsuit $" /></a>**[<span style="border-bottom:2px solid blue;">. Linear Programming and the Iteration Allocation Model————2019.02.08</span>](https://github.com/zhouchw5/Course_study_uk.github.io/blob/linear-programming-and-the-iteration-allocation-model/README.md)** Some simple performance in R for retrospection and extension on my past iteration model for supply resource allocation                              
                               
 - **Distributed Computing for Big Data**                     
 
